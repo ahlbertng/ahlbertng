@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/ahlbert)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/ahlbertng)
 <h1> About </h1>
 
 <p>
@@ -20,13 +20,13 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_ah1b3rt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertmitini)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahlbert)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@laymanbrother?si=hjyzhigqbacJndIb)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahlbert?si=L8h0-Q0pAeOQ8R4z)
 </div>
 
-<h3 align="center"> Cloud & DevOps Engineer | Bussiness Analyst
+<h3 align="center"> Cloud & DevOps Engineer
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlbert&label=Profile%20views&color=0e75b6&style=flat" alt="ahlbert" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlbertng&label=Profile%20views&color=0e75b6&style=flat" alt="ahlbertng" /> </p>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -54,21 +54,21 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ![Prometheus](https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-[![Albert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahlbert&theme=react-dark&hide_border=true)](https://github.com/ahlbert)
+[![Albert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahlbertng&theme=react-dark&hide_border=true)](https://github.com/ahlbertng)
 
 
 <!--
 ## 🏆 GitHub Achievements & Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ahlbert&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ahlbertng&theme=onedark)
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlbert&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlbertng&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="200" />
   
-  <img src="https://github-contributor-stats.vercel.app/api?username=ahlbert&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&_vercel_color_scheme=dark" height="180" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ahlbertng&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&_vercel_color_scheme=dark" height="180" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ahlbert&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahlbertng&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 -->
