@@ -1,4 +1,4 @@
-## 🌐 Adharsh's Portfolio
+## 🌐 Ahlberts's Portfolio
 This is my personal portfolio website, built to showcase my **skills, projects, and experience** in **DevOps and Cloud Engineering**.  
 
 ## 🚀 Features
@@ -12,13 +12,13 @@ This is my personal portfolio website, built to showcase my **skills, projects, 
 
 
 ## 📌 Live Demo
- 👉 [View Portfolio](https://adharsh-portfolio-omega.vercel.app/)
+ 👉 [View Portfolio](#)
 
 ---
 
 ### 📬 Contact
-- **Email**: adharshu777@gmail.com  
-- **LinkedIn**: [Adharsh Unnikrishnnan](https://www.linkedin.com/in/adharsh277/)
-- **GitHub**: [adharsh277](https://github.com/adharsh277)
+- **Email**: ahlbertsadigben@gmail.com  
+- **LinkedIn**: [Albert Mitini-Sadigben](https://www.linkedin.com/in/albertmitini/)
+- **GitHub**: [adharsh277](https://github.com/ahlbertng)
 
 
