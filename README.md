@@ -19,6 +19,6 @@ This is my personal portfolio website, built to showcase my **skills, projects, 
 ### 📬 Contact
 - **Email**: ahlbertsadigben@gmail.com  
 - **LinkedIn**: [Albert Mitini-Sadigben](https://www.linkedin.com/in/albertmitini/)
-- **GitHub**: [adharsh277](https://github.com/ahlbertng)
+- **GitHub**: [ahlbertng](https://github.com/ahlbertng)
 
 
