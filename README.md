@@ -3,11 +3,9 @@
 
 <p>
 
-Hey there! I am Mitini-Sadigben Albert Ogheneobruche, a professional with a strong passion for technology and innovation. 👨‍💻  
+Hey, I'm Albert, a Cloud & DevOps Engineer based in Nigeria, focused on building production-ready infrastructure and automating everything in between.
 
-I am fascinated by the intersection of cloud computing, DevOps, AI/ML, and BlockChain, and I am on an exciting journey to make a meaningful impact in the tech world.  
-
-Driven by curiosity and the desire to explore the limitless potential of emerging technologies, I actively contribute to open-source projects and enjoy collaborating with like-minded developers.  
+Driven by curiosity and the desire to explore the limitless potential of emerging technologies, I actively contribute to open-source projects and use real-world builds to sharpen my skills.  
 
 As I grow my skills and gain hands-on experience, I aim to craft solutions that push the boundaries of technology, while building valuable connections within the global tech community.  
 
