@@ -2,7 +2,7 @@
 <h1> About </h1>
 
 <p>
-Hey there! I am Albert, a professional with a strong passion for technology and innovation.
+Hey there! I am Albert, a professional with passion for technology and innovation.
   
 I am fascinated by the intersection of cloud computing and DevOps, and I am on an exciting journey to make a meaningful impact in the tech world.
   
