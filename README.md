@@ -2,11 +2,11 @@
 <h1> About </h1>
 
 <p>
-Hey there! I am Albert, a professional with passion for technology and innovation.
+Hey there! I am Albert, a Cloud & DevOps Engineer based in NIgeria.
+
+I help startups and growing teams replace manual, undocumented infrastructure with systems that are automated, observable, and built to last.
   
-I am fascinated by the intersection of cloud computing and DevOps, and I am on an exciting journey to make a meaningful impact in the tech world.
-  
-Driven by curiosity and the desire to explore the limitless potential of emerging technologies, I actively contribute to open-source projects and enjoy collaborating with like-minded developers.
+I actively contribute to open-source projects and enjoy collaborating with like-minded developers.
 
 As I grow my skills and gain hands-on experience, I aim to craft solutions that push the boundaries of technology, while building valuable connections within the global tech community.
 
@@ -40,7 +40,6 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 
 ![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Oracle](https://img.shields.io/badge/oracle-%23f80000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Prometheus](https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
