@@ -6,7 +6,7 @@ Hey there! I am Albert, a Cloud & DevOps Engineer based in NIgeria.
 
 I help startups and growing teams replace manual, undocumented infrastructure with systems that are automated, observable,and built to last.
   
-I actively contribute to open-source projects and enjoy collaborating with like-minded developers, and i am always looking to grow my skills through real-world work.
+I actively contribute to open-source projects and enjoy collaborating with like-minded developers, and i am always looking to grow my skills through real world work.
 
 Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
 </p>
