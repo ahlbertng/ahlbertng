@@ -41,10 +41,6 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 ![Prometheus](https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-[![Albert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahlbertng&theme=react-dark&hide_border=true)](https://github.com/ahlbertng)
-
-
-<!--
 ## 🏆 GitHub Achievements & Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahlbertng&theme=onedark)
@@ -58,4 +54,3 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
   <img src="https://github-readme-stats.vercel.app/api?username=ahlbertng&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
--->
