@@ -1,24 +1,61 @@
-##  Ahlberts's Portfolio
-This is my personal portfolio website, built to showcase my **skills, projects, and experience** in **DevOps and Cloud Engineering**.  
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/ahlbertng)
+<h1> About </h1>
 
-##  Features
-- Responsive and modern design
-- Sections for **About Me, Skills, and Projects**
-- Easy to update and customize
+<p>
+Hey there! I am Albert, a Cloud & DevOps Engineer based in NIgeria.
 
-##  Tech Stack
-- **HTML, CSS, JavaScript**
-- Deployed with **GitHub Pages** Vercel
+I help startups and growing teams replace manual, undocumented infrastructure with systems that are automated, observable,and built to last.
+  
+I actively contribute to open-source projects and enjoy collaborating with like-minded developers, and i am always looking to grow my skills through real world work.
+
+Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
+</p>
+<div align="center">
+
+🌐 Socials
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_ah1b3rt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertmitini)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahlbert)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ahlbert?si=L8h0-Q0pAeOQ8R4z)
+</div>
+
+<h3 align="center"> Cloud & DevOps Engineer
+</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlbertng&label=Profile%20views&color=0e75b6&style=flat" alt="ahlbertng" /> </p>
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235e5e5e.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
+![Grafana](https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+[![Albert's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahlbertng&theme=react-dark&hide_border=true)](https://github.com/ahlbertng)
 
 
-##  Live Demo
-  [View Portfolio](#)
+<!--
+## 🏆 GitHub Achievements & Trophies
 
----
+![trophy](https://github-profile-trophy.vercel.app/?username=ahlbertng&theme=onedark)
 
-###  Contact
-- **Email**: ahlbertsadigben@gmail.com  
-- **LinkedIn**: [Albert Mitini-Sadigben](https://www.linkedin.com/in/albertmitini/)
-- **GitHub**: [ahlbertng](https://github.com/ahlbertng)
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahlbertng&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="200" />
+  
+  <img src="https://github-contributor-stats.vercel.app/api?username=ahlbertng&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&_vercel_color_scheme=dark" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ahlbertng&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" />
 
+</div>
+-->
