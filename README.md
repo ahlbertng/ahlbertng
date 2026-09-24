@@ -1,15 +1,20 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/ahlbertng)
-<h1> About </h1>
 
 <p>
-Hey there! I am Albert, a Cloud & DevOps Engineer based in NIgeria.
+Hi, I'm Albert 👋🏾
 
-I help startups and growing teams replace manual, undocumented infrastructure with systems that are automated, observable,and built to last.
-  
-I actively contribute to open-source projects and enjoy collaborating with like-minded developers, and i am always looking to grow my skills through real world work.
+I build and operate infrastructure with a focus on automation, reliability, deployment systems, and observability.
 
-Join me as I embrace challenges, innovate, and work towards a future shaped by technology and creativity.
+Most of my learning happens by building things from the ground up. From highly available infrastructure and containerized environments to deployment tooling and security focused systems.
+
+I enjoy understanding how infrastructure works underneath the abstractions, then turning that knowledge into practical, reproducible systems.
 </p>
+
+<h3 align="center"> Cloud & DevOps Engineer
+</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlbertng&label=Profile%20views&color=0e75b6&style=flat" alt="ahlbertng" /> </p>
+
 <div align="center">
 
 🌐 Socials
@@ -20,23 +25,19 @@ Join me as I embrace challenges, innovate, and work towards a future shaped by t
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ahlbert?si=L8h0-Q0pAeOQ8R4z)
 </div>
 
-<h3 align="center"> Cloud & DevOps Engineer
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlbertng&label=Profile%20views&color=0e75b6&style=flat" alt="ahlbertng" /> </p>
-
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235e5e5e.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker%20compose-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/prometheus-%23e6522c.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23f46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
