@@ -36,7 +36,7 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=AmazonWebServices&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Aws-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
