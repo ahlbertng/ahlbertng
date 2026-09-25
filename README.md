@@ -1,9 +1,6 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/ahlbertng)
 
 
-<h3 align="center"> Cloud • DevOps • Platform Engineering
-</h3>
-
 <p>
 Hi, I'm Albert 👋🏾
 
