@@ -1,5 +1,9 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/018/753/785/non_2x/devops-agile-development-and-optimisation-concept-on-virtual-screen-software-engineering-software-development-practices-methodology-wireframe-hand-touching-digital-interface-illustration-vector.jpg)](https://github.com/ahlbertng)
 
+
+<h3 align="center"> Cloud • DevOps • Platform Engineering
+</h3>
+
 <p>
 Hi, I'm Albert 👋🏾
 
@@ -9,9 +13,6 @@ Most of my learning happens by building things from the ground up. From highly a
 
 I enjoy understanding how infrastructure works underneath the abstractions, then turning that knowledge into practical, reproducible systems.
 </p>
-
-<h3 align="center"> Cloud & DevOps Engineer
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahlbertng&label=Profile%20views&color=0e75b6&style=flat" alt="ahlbertng" /> </p>
 
@@ -33,7 +34,7 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker%20compose-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%235835CC.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=AmazonWebServices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
