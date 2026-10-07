@@ -10,7 +10,7 @@ Most of my learning happens by building things from the ground up. From highly a
 I enjoy understanding how infrastructure works underneath the abstractions, then turning that knowledge into practical, reproducible systems.
 </p>
 
-💻 Tech Stack
+# 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -33,8 +33,10 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-🏆 Stats
+# 📊 Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ahlbertng&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://komarev.com/ghpvc/?username=ahlbertng&icon0&color=0)](https://visitcount.itsvg.in)
