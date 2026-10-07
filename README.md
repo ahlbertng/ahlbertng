@@ -5,7 +5,7 @@ Hi, I'm Albert 👋🏾
 
 I build and operate infrastructure with a focus on automation, reliability, deployment systems, and observability.
 
-Most of my learning happens by building things from the ground up. From highly available infrastructure and containerized environments to deployment tooling and security focused systems.
+Most of my learning happens by building things, from highly available infrastructure and containerized environments to deployment tooling and security focused systems.
 
 I enjoy understanding how infrastructure works underneath the abstractions, then turning that knowledge into practical, reproducible systems.
 </p>
