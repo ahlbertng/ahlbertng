@@ -37,6 +37,6 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 
 ![](https://github-readme-stats.shion.dev/api?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ahlbertng&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide=javascript,html,css,go)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide=javascript,html,css,go,typescript)
 
 ![](https://komarev.com/ghpvc/?username=ahlbertng&label=profile%20views&color=0e75b6&style=flat)
