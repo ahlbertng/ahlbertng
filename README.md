@@ -40,4 +40,4 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 ![](https://streak-stats.demolab.com/?user=ahlbertng&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://komarev.com/ghpvc/?username=ahlbertng&icon0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=ahlbertng&label=profile%20views&color=0e75b6&style=flat)
