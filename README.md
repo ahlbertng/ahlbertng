@@ -37,5 +37,5 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 # 📊 Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ahlbertng&theme=dark&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=ahlbertng&theme=dark&hide_border=true&timezone=Africa/Lagos&cache_seconds=1800)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
