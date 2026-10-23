@@ -3,11 +3,11 @@
 <p>
 Hi, I'm Albert 👋🏾
 
-I build and operate infrastructure with focus on automation, reliability, deployment systems, and observability.
+I build and operate infrastructure with focus on automation, reliability, deployment systems, and Observability.
 
 Most of my learning happens by building things, from highly available infrastructure and containerized environments to deployment tooling and security focused systems.
 
-I enjoy understanding how infrastructure works underneath the abstractions, then turning that knowledge into practical, reproducible systems....
+I enjoy understanding how infrastructure works underneath the abstractions, then turning that knowledge into practical, reproducible systems.
 </p>
 
 # 💻 Tech Stack
@@ -33,11 +33,3 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-# 📊 Stats
-
-![Public GitHub stats](https://github-readme-stats.shion.dev/api?username=ahlbertng&theme=vue-dark&hide_border=true&include_all_commits=true)
-
-![Public contribution streak](https://streak-stats.demolab.com?user=ahlbertng&theme=vue-dark&hide_border=true&timezone=Africa%2FLagos)
-
-![Top public languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ahlbertng&theme=vue-dark&hide_border=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
