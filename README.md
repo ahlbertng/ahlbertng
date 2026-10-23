@@ -36,6 +36,8 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 
 # 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahlbertng&theme=dark)](https://git.io/streak-stats)<br/>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlbertng&theme=dark&hide_border=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahlbertng&theme=dark)](https://git.io/streak-stats)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahlbertng&theme=dark&hide_border=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
