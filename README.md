@@ -36,8 +36,8 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 
 # 📊 Stats
 
-![contribution statistics](https://github-readme-stats.shion.dev/api?username=ahlbertng&theme=tokyonight-duo&hide_border=true&include_all_commits=true&count_private=true)
+![contribution statistics](https://github-readme-stats.shion.dev/api?username=ahlbertng&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahlbertng&theme=tokyonight-duo&timezone=WAT)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahlbertng&theme=vue-dark&timezone=WAT)](https://git.io/streak-stats)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahlbertng&theme=tokyonight-duo&hide_border=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahlbertng&theme=tvue-dark&hide_border=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
