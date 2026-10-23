@@ -7,7 +7,7 @@ I build and operate infrastructure with focus on automation, reliability, deploy
 
 Most of my learning happens by building things, from highly available infrastructure and containerized environments to deployment tooling and security focused systems.
 
-I enjoy understanding how infrastructure works underneath the abstractions, then turning that knowledge into practical, reproducible systems.
+I enjoy understanding how infrastructure works underneath the abstractions, then turning that knowledge into practical, reproducible systems....
 </p>
 
 # 💻 Tech Stack
@@ -37,5 +37,5 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 # 📊 Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ahlbertng&theme=dark&hide_border=true&timezone=Africa/Lagos&cache_seconds=1800)<br/>
+![](https://streak-stats.demolab.com/?user=ahlbertng&theme=dark&hide_border=true&timezone=Africa/Lagos&cache_seconds=1800&v=2)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahlbertng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
