@@ -40,4 +40,4 @@ I enjoy understanding how infrastructure works underneath the abstractions, then
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ahlbertng&theme=vue-dark&timezone=WAT)](https://git.io/streak-stats)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahlbertng&theme=tvue-dark&hide_border=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahlbertng&theme=vue-dark&hide_border=true&layout=compact&langs_count=6&hide=javascript,html,css,typescript)
