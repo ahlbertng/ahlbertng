@@ -1,6 +1,6 @@
-<p>
-Hi, I'm Albert 👋🏾
+# Hi, I'm Albert 👋🏾
 
+<p>
 I build and operate infrastructure with focus on automation, reliability, deployment systems, and Observability.
 
 Most of my learning happens by building things, from highly available infrastructure and containerized environments to deployment tooling and security focused systems.
